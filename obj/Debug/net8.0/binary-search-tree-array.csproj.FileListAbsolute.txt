@@ -1,0 +1,14 @@
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/bin/Debug/net8.0/binary-search-tree-array
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/bin/Debug/net8.0/binary-search-tree-array.deps.json
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/bin/Debug/net8.0/binary-search-tree-array.runtimeconfig.json
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/bin/Debug/net8.0/binary-search-tree-array.dll
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/bin/Debug/net8.0/binary-search-tree-array.pdb
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/obj/Debug/net8.0/binary-search-tree-array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/obj/Debug/net8.0/binary-search-tree-array.AssemblyInfoInputs.cache
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/obj/Debug/net8.0/binary-search-tree-array.AssemblyInfo.cs
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/obj/Debug/net8.0/binary-search-tree-array.csproj.CoreCompileInputs.cache
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/obj/Debug/net8.0/binary-search-tree-array.dll
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/obj/Debug/net8.0/refint/binary-search-tree-array.dll
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/obj/Debug/net8.0/binary-search-tree-array.pdb
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/obj/Debug/net8.0/binary-search-tree-array.genruntimeconfig.cache
+/Users/selahattindemircin/RiderProjects/finalCalismalari/binary-search-tree-array/obj/Debug/net8.0/ref/binary-search-tree-array.dll
